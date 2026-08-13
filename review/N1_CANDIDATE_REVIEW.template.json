@@ -1,0 +1,20 @@
+{
+  "review_id": "REPLACE_WITH_STABLE_REVIEW_ID",
+  "target_commit": "REPLACE_WITH_40_HEX_COMMIT_SHA",
+  "target_manifest_sha256": "REPLACE_WITH_SHA256_OF_TARGET_MANIFEST",
+  "scope": "Adversarial N1 evaluation of the exact candidate identified by target/TARGET_MANIFEST.json.",
+  "methodology": "Describe manual review, tests, threat modeling, AI assistance, external references, and limitations.",
+  "reviewer_identity": "REPLACE_WITH_PUBLIC_REVIEWER_NAME_OR_PSEUDONYM",
+  "reviewer_principal": "REPLACE_WITH_GITHUB_OWNER_OR_ORGANIZATION_CONTROLLING_THE_FORK",
+  "reviewer_credential_relationship": "Describe whether infrastructure is shared with the NousPolis founder or project.",
+  "conflicts_of_interest": "Declare compensation, material interests, affiliations, relationships, or state none.",
+  "separation_level": "L3",
+  "invariants_reviewed": [1,2,3,4,11,13,14,15,19,20,21,22,23,24,25,26,27,28,29,31,32,33,36,37,42,43,44,47,48,49,51,52,53,55,58,60,61,62,65,66,67,69,71,74,75,76,77,78,79,80,81,82,83,85,87,92,93,95,96,97,98],
+  "findings": [],
+  "unresolved_critical_findings": [],
+  "unresolved_disagreements": [],
+  "residual_risks": [],
+  "disposition": "DEFER_PENDING_REMEDIATION",
+  "review_date": "REPLACE_WITH_YYYY-MM-DD",
+  "reviewer_notes": "Optional notes."
+}
